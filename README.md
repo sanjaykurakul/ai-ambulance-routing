@@ -50,7 +50,7 @@ Live Demo:
 Add your GitHub Pages link here
 
 Example:
-https://yourusername.github.io/ambulance-ai/
+https://sanjaykurakul.github.io/ai-ambulance-routing/
 
 ## How to Run
 
